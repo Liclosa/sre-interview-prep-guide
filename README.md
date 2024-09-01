@@ -114,7 +114,7 @@ Contributions are always welcome!
 - [ ] [SQL vs. NoSQL Database: When to Use, How to Choose](https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106)
 - [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
-- [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
+- [x] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
 - [ ] [Kafka 101](https://highscalability.com/untitled-2)
 
 ## CI/CD
