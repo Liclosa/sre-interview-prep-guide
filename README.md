@@ -247,9 +247,9 @@ Contributions are always welcome!
 - [x] [A collection of questions to practice with for SRE interviews](https://github.com/michael-kehoe/sre-interview)
 - [ ] [SRE Interview Questions](https://syedali.net/engineer-interview-questions)
 - [ ] [Sysadmin Test Questions](https://github.com/trimstray/test-your-sysadmin-skills)
-- [ ] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
+- [x] [Kubernetes job interview questions](https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare)
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
-- [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
+- [x] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
 - [x] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
